@@ -9,6 +9,8 @@ FE 기술 공유 스터디입니다.
 [@lallaheeee](https://github.com/lallaheeee)
 [@Logqwerty](https://github.com/Logqwerty)
 [@WooYeonSeo](https://github.com/WooYeonSeo)
+[@sangminK](https://github.com/sangminK)
+[@dlatns0201](https://github.com/dlatns0201)
 
 ## 🔖[자료는 위키!](https://github.com/WooYeonSeo/FE_STUDY/wiki)
 
