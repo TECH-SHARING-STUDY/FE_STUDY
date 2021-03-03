@@ -11,7 +11,8 @@ FE 기술 공유 스터디입니다.
 [@Teihong93](https://github.com/teihong93)
 
 [@sangminK](https://github.com/sangminK)
-[@lallaheeee](https://github.com/lallaheeee)
+[@lallaheeee](https://github.com/lallaheeee
+[@alexKwonIsAwesome](https://github.com/alexKwonIsAwesome)
 
 
 ## 🔖[자료는 위키!](https://github.com/WooYeonSeo/FE_STUDY/wiki)
